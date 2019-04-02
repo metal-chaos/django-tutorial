@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3e65d75-e1cd-43c6-b073-5fb66f40589c" name="Default Changelist" comment="" />
+    <list default="true" id="f3e65d75-e1cd-43c6-b073-5fb66f40589c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mybook/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mybook/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mybook/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+            <state relative-caret-position="233">
+              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -51,12 +53,15 @@
       <find>sqlite</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/cms/models.py" />
-        <option value="$PROJECT_DIR$/mybook/settings.py" />
         <option value="$PROJECT_DIR$/cms/admin.py" />
+        <option value="$PROJECT_DIR$/mybook/settings.py" />
       </list>
     </option>
   </component>
@@ -65,6 +70,7 @@
     <option name="width" value="1280" />
     <option name="height" value="737" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -149,12 +155,12 @@
       <updated>1553331919810</updated>
       <workItem from="1553331921444" duration="917000" />
       <workItem from="1553381596655" duration="3382000" />
-      <workItem from="1554109728688" duration="1885000" />
+      <workItem from="1554109728688" duration="2135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6184000" />
+    <option name="totallyTimeSpent" value="6434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="737" extended-state="0" />
@@ -209,8 +215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mybook/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        <state relative-caret-position="233">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
         </state>
       </provider>
     </entry>
