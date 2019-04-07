@@ -46,7 +46,7 @@ class ImpressionList(ListView):
     """感想の一覧"""
     context_object_name='impressions'
     template_name='cms/impression_list.html'
-    paginate_by = 2  # １ページは最大2件ずつでページングする
+    paginate_by = 5  # １ページは最大2件ずつでページングする
 
     def get(self, request, *args, **kwargs):
         book = get_object_or_404(Book, pk=kwargs['book_id'])  # 親の書籍を読む
